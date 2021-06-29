@@ -1,3 +1,3 @@
 # concurrent-kotlin
 
-code example for the presentation about concurrent-kotlin (CSP).
+code examples for the presentation about concurrent-kotlin (CSP).
